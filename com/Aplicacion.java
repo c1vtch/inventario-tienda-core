@@ -7,6 +7,10 @@ import com.clases.TiendaElectronica;
 public class Aplicacion {
     public static void main(String args []){
 
+        //Ejecutar con javac com/Aplicacion.java
+        //java com/Aplicacion
+
+
         ProductoElectrodomestico tele = new ProductoElectrodomestico("tele", 23450, 20);
         ProductoElectrodomestico tablet = new ProductoElectrodomestico("tablet", 25450, 10);
 
